@@ -1,4 +1,7 @@
 <resources>
-    <string name="app_name">XamAndroidCalculator</string>
-    <string name="action_settings">Settings</string>
+  <string name="app_name">XamAndroidCalculator</string>
+  <string name="ApplicationName">TipCalculator</string>
+  <string name="tvTipStr">Tip:</string>
+  <string name="tvTotalStr">Total:</string>
+  <string name="btnCalStr">Calculate</string>
 </resources>
